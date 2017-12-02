@@ -1,0 +1,2 @@
+C:\Users\Coldii\Documents\Visual Studio 2010\Projects\Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_YildizContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Programmering\Projekt 1\Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_YildizContent\obj\x86\Debug\Asteroids_by_Yakup_YildizContent.contentprojResolveAssemblyReference.cache

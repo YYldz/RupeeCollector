@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroids_by_Yakup_Yildiz", "Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_Yildiz.csproj", "{729DEC17-88FC-4C52-896F-F67F5296F6D3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Asteroids_by_Yakup_YildizContent", "Asteroids_by_Yakup_Yildiz\Asteroids_by_Yakup_YildizContent\Asteroids_by_Yakup_YildizContent.contentproj", "{842A126E-7AF2-4D97-B76B-DA0421DD119B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{729DEC17-88FC-4C52-896F-F67F5296F6D3}.Debug|x86.ActiveCfg = Debug|x86
+		{729DEC17-88FC-4C52-896F-F67F5296F6D3}.Debug|x86.Build.0 = Debug|x86
+		{729DEC17-88FC-4C52-896F-F67F5296F6D3}.Release|x86.ActiveCfg = Release|x86
+		{729DEC17-88FC-4C52-896F-F67F5296F6D3}.Release|x86.Build.0 = Release|x86
+		{842A126E-7AF2-4D97-B76B-DA0421DD119B}.Debug|x86.ActiveCfg = Debug|x86
+		{842A126E-7AF2-4D97-B76B-DA0421DD119B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
